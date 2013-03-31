@@ -20,3 +20,4 @@
 
 -Doesn't support more than one mesh
 -Doesn't support more than one animation
+-Only supports the Collada file type (DAE)
